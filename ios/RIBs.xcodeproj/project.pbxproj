@@ -557,7 +557,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PRODUCTS_DIR)../Carthage/Build/iOS/",
-					../../Build/iOS/Static/,
+					../../../Build/iOS/Static/,
 				);
 				INFOPLIST_FILE = RIBs/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -585,7 +585,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PRODUCTS_DIR)../Carthage/Build/iOS/",
-					../../Build/iOS/Static/,
+					../../../Build/iOS/Static/,
 				);
 				INFOPLIST_FILE = RIBs/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
